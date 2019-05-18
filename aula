@@ -1,0 +1,41 @@
+set > colocar
+get> pegar 
+
+
+activity (tela)
+
+extends > quer dizer que está refernciando uma tela pai (herança de classe)
+
+
+super.onCreate > está referenciando a classe pai 
+this.onCreate > está referenciando a classe onde possui o que vc quer 
+
+
+
+R.java > mapeia tudo que tem na sua tela para o 
+
+xml > front (tela)
+java > back (programação)
+
+
+
+intent > intenção de fazer algo equivalente a um evento que  será feito 
+manda uma mensagem para o android executar a ação que foi solicitada. 
+
+
+para cada activy tem uma tela e para cada tela tem uma classe 
+
+
+hash > tabela que tem chave que vai nos levar ao value
+
+
+Buble > cria a tabela 
+
+
+uri > é o endreço http://www.googlr
+
+
+action_view : abre o navegador 
+
+
+
